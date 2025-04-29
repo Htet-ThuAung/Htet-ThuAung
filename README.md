@@ -12,7 +12,7 @@
 📂 **Projects**:  
 - [Helmet Detection AI Model](https://github.com/Htet-ThuAung/HelmetDetectionProject)  
 - [CS231n Assignments](https://github.com/Htet-ThuAung/cs231n-assignments)
-
+- [Habit Tracker (CS50P Final Project)](https://github.com/Htet-ThuAung/HabitTracker)
 🧠 Currently exploring: Model Optimization | Real-time Inference | Advanced Vision Techniques
 
 <!---
