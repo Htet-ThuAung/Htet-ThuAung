@@ -9,7 +9,7 @@ Currently diving deep into **CS231n** while applying my skills to real-world pro
 ## 🚀 Projects
 
 🔹 [Helmet Detection AI System](https://github.com/Htet-ThuAung/HelmetDetectionProject)  
--Objection for rider safety, trained on Pascal VOC-style annotations.
+-Built with TensorFlow Object Detection API (SSD MobileNetV2), trained on Pascal VOC-style annotations. Real-time inference via webcam and images.
 
 🔹 [CS231n Assignments](https://github.com/Htet-ThuAung/cs231n-assignments)  
 -Reimplementing foundational CV algorithms: backprop, CNNs, loss functions, optimization.
