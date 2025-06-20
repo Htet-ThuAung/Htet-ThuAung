@@ -9,13 +9,13 @@ Currently diving deep into **CS231n** while applying my skills to real-world pro
 ## 🚀 Projects
 
 🔹 [Helmet Detection AI System](https://github.com/Htet-ThuAung/HelmetDetectionProject)  
-YOLO-based object detection for rider safety, trained on Pascal VOC-style annotations.
+-Objection for rider safety, trained on Pascal VOC-style annotations.
 
 🔹 [CS231n Assignments](https://github.com/Htet-ThuAung/cs231n-assignments)  
-Reimplementing foundational CV algorithms: backprop, CNNs, loss functions, optimization.
+-Reimplementing foundational CV algorithms: backprop, CNNs, loss functions, optimization.
 
 🔹 [Habit Tracker (CS50P Final)](https://github.com/Htet-ThuAung/HabitTracker)  
-Simple terminal-based tracker using Python and SQLite — focused on habit consistency.
+-Simple terminal-based tracker using Python and SQLite — focused on habit consistency.
 
 ---
 
