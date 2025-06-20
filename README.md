@@ -30,7 +30,7 @@ Simple terminal-based tracker using Python and SQLite — focused on habit consi
 
 ## 🧠 About Me
 
-Based in Yangon 🇲🇲, I’m on a mission to become a top-tier Computer Vision engineer by building, learning, and shipping AI solutions that actually matter.
+Based in Yangon 🇲🇲, I’m on a mission to become a top-tier Computer Vision engineer by building, learning, and shipping AI solutions that matter.
 
 I thrive on creative projects, minimal fluff, and that deep satisfaction when the model *finally converges*.
 
