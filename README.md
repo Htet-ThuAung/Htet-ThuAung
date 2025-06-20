@@ -1,22 +1,44 @@
-### 👋 Hi, I’m Htet Thu Aung (aka Veon)
+# 👋 Hey there! I'm Htet Thu Aung — but you can call me Veon.
 
-🎯 **Aspiring Computer Vision Engineer**  
-🔬 Passionate about Deep Learning, Machine Learning, and AI for real-world impact.  
-✅ Recently completed: Helmet Detection AI Model and CS231n Assignments.  
-🤝 Open to collaboration on AI/Computer Vision projects.  
-📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/htetthuaung/)
+I'm a **Computer Vision Engineer** passionate about building AI systems that *see and understand the world*. I specialize in deep learning, real-time vision applications, and end-to-end model deployment.
+
+Currently diving deep into **CS231n** while applying my skills to real-world projects like safety helmet detection and shelf monitoring with SKU110K.
 
 ---
 
-🛠️ **Skills**: Python, TensorFlow, PyTorch, OpenCV, Scikit-learn  
-📂 **Projects**:  
-- [Helmet Detection AI Model](https://github.com/Htet-ThuAung/HelmetDetectionProject)  
-- [CS231n Assignments](https://github.com/Htet-ThuAung/cs231n-assignments)
-- [Habit Tracker (CS50P Final Project)](https://github.com/Htet-ThuAung/HabitTracker)
-  
- Currently exploring: Model Optimization | Real-time Inference | Advanced Vision Techniques
+## 🚀 Projects
 
-<!---
-Htet-ThuAung/Htet-ThuAung is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔹 [Helmet Detection AI System](https://github.com/Htet-ThuAung/HelmetDetectionProject)  
+YOLO-based object detection for rider safety, trained on Pascal VOC-style annotations.
+
+🔹 [CS231n Assignments](https://github.com/Htet-ThuAung/cs231n-assignments)  
+Reimplementing foundational CV algorithms: backprop, CNNs, loss functions, optimization.
+
+🔹 [Habit Tracker (CS50P Final)](https://github.com/Htet-ThuAung/HabitTracker)  
+Simple terminal-based tracker using Python and SQLite — focused on habit consistency.
+
+---
+
+## 🛠️ Tools & Tech
+
+- **Languages**: Python, Bash  
+- **CV/AI**: OpenCV, PyTorch, TensorFlow, Scikit-learn, Ultralytics YOLO  
+- **Dev Tools**: Git, VS Code, Linux (WSL), Jupyter, FastAPI  
+- **Currently Exploring**: Model compression, ONNX export, real-time deployment
+
+---
+
+## 🧠 About Me
+
+Based in Yangon 🇲🇲, I’m on a mission to become a top-tier Computer Vision engineer by building, learning, and shipping AI solutions that actually matter.
+
+I thrive on creative projects, minimal fluff, and that deep satisfaction when the model *finally converges*.
+
+---
+
+## 🤝 Let’s Connect
+
+📫 [LinkedIn](https://www.linkedin.com/in/htetthuaung/)  
+📂 [GitHub Portfolio](https://github.com/Htet-ThuAung)
+
+> ⚡ **I’m actively seeking AI/CV engineering roles, internships, or remote freelance gigs.** Let’s build something amazing.
